@@ -14,5 +14,5 @@ To update any changes, make sure you follow the following command.
 
 ```
 $ git pull
-
+```
 
