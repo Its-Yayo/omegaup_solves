@@ -10,7 +10,10 @@ def main():
     if n >= 2 and n <= 1000000: 
         while n < 30000:
             n *= n
-            i += 1  
+            i += 1 
+
+            if n == 30000:
+                break 
         
         print(n, i)
 
