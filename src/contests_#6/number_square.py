@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 def main():
-    """ Code to square an arg number until it reaches 65536. 
+    """ Code to square an arg number until it reaches 30000. 
     Outputs the squared number and the number of iterations. """
 
     n = int(input())
