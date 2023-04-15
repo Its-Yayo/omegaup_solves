@@ -3,11 +3,11 @@
 def main():
     """ Code to determine if determine the side D of a triangle given sides A, B, and C."""
 
-    a = int(input("Enter side A: "))
-    b = int(input("Enter side B: "))
-    c = int(input("Enter side C: "))
+    a = int(input())
+    b = int(input())
+    c = int(input())
 
-    d = (c * b) / a
+    d = (b / a) * c
 
     print(int(d))
 

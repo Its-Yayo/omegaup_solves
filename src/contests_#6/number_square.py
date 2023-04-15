@@ -4,7 +4,7 @@ def main():
     """ Code to square an arg number until it reaches 65536. 
     Outputs the squared number and the number of iterations. """
 
-    n = int(input("Enter a number: "))
+    n = int(input())
     i = 0
 
     if n >= 2 and n <= 1000000: 
