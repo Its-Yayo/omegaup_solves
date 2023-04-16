@@ -1,7 +1,12 @@
 #!/usr/bin/python3
 
 def main():
-    """ Code to determine if determine the side D of a triangle given sides A, B, and C."""
+    """ Code to determine if determine the side D of a triangle 
+        given sides A, B, and C.
+        
+        Test case example:
+        Input -> 3 4 6
+        Output -> 8 """
 
     a = int(input())
     b = int(input())

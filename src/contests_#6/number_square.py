@@ -2,7 +2,11 @@
 
 def main():
     """ Code to square an arg number until it reaches 30000. 
-    Outputs the squared number and the number of iterations. """
+    Outputs the squared number and the number of iterations. 
+    
+    Test case example:
+    Input -> 2
+    Output -> 65536 4 """
 
     n = int(input())
     i = 0
